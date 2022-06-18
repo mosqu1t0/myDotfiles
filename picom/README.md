@@ -1,0 +1,2 @@
+my picom config
+
