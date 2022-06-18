@@ -11,7 +11,8 @@ colors:
     red:     '#f7768e'
     green:   '#9ece6a'
     yellow:  '#e0af68'
-    blue:    '#7aa2f7'
+    # blue:    '#7aa2f7'
+    blue:    '#f7768e'
     magenta: '#bb9af7'
     cyan:    '#7dcfff'
     white:   '#a9b1d6'
@@ -19,10 +20,11 @@ colors:
   # Bright colors
   bright:
     black:   '#414868'
-    red:     '#f7768e'
+    red:     '#7aa2f7'
     green:   '#9ece6a'
     yellow:  '#e0af68'
     blue:    '#7aa2f7'
+    # blue:    '#f7768e'
     magenta: '#bb9af7'
     cyan:    '#7dcfff'
     white:   '#c0caf5'
