@@ -1,9 +1,9 @@
 {
 	"name": "Vimium C",
-	"@time": "6/12/2022, 4:24:48 PM",
-	"time": 1655022288919,
+	"@time": "6/25/2022, 1:39:55 PM",
+	"time": 1656135595161,
 	"environment": {
-		"extension": "1.98.2",
+		"extension": "1.98.3",
 		"platform": "linux",
 		"chromium": "102"
 	},
@@ -79,6 +79,8 @@
 		"  blank=https://bilibili.com",
 		"gh.r: https://github.com/mosqu1t0?tab=repositories&q=%s&type=&language=&sort=",
 		"  blank=https://www.github.com",
+		"maven: https://mvnrepository.com/search?q=%s",
+		"  blank=https://mvnrepository.com",
 		""
 	],
 	"vimSync": true
