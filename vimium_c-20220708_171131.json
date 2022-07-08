@@ -1,7 +1,7 @@
 {
 	"name": "Vimium C",
-	"@time": "6/25/2022, 1:39:55 PM",
-	"time": 1656135595161,
+	"@time": "7/8/2022, 5:11:31 PM",
+	"time": 1657271491996,
 	"environment": {
 		"extension": "1.98.3",
 		"platform": "linux",
@@ -83,5 +83,6 @@
 		"  blank=https://mvnrepository.com",
 		""
 	],
+	"searchUrl": "https://www.google.com/search?q=$s Google",
 	"vimSync": true
 }
